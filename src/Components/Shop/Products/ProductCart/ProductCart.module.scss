@@ -1,0 +1,15 @@
+.ProductCart {
+  display: flex;
+  justify-content: center;
+  .container {
+    display: flex;
+
+    img {
+      width: 40%;
+    }
+  }
+
+  .description {
+    margin: 0 0 0 50px;
+  }
+}

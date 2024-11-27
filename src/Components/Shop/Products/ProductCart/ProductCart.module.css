@@ -1,0 +1,15 @@
+.ProductCart {
+  display: flex;
+  justify-content: center;
+}
+.ProductCart .container {
+  display: flex;
+}
+.ProductCart .container img {
+  width: 40%;
+}
+.ProductCart .description {
+  margin: 0 0 0 50px;
+}
+
+/*# sourceMappingURL=ProductCart.module.css.map */

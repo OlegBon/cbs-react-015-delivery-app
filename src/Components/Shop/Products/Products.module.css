@@ -1,0 +1,7 @@
+.Products {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=Products.module.css.map */
